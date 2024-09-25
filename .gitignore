@@ -1,3 +1,5 @@
 *.elc
 testbib.bib
 /.cask/
+parsebib-autoloads.el
+parsebib-pkg.el
